@@ -1,0 +1,158 @@
+==============================
+OUTPUT 1 
+==============================
+     WATER BILL CALCULATOR
+
+Enter Consumer Name: Rahul
+Enter Water Usage (in units): 8
+
+ WATER BILL
+Consumer Name: Rahul
+Water Usage: 8.0 units
+Total Water Bill: Rs. 40.0
+Usage Category: Low Consumption
+Conservation Tip: Good! Continue saving water.
+
+
+==============================
+OUTPUT 2 
+==============================
+     WATER BILL CALCULATOR
+
+Enter Consumer Name: Suman
+Enter Water Usage (in units): 15
+
+ WATER BILL
+Consumer Name: Suman
+Water Usage: 15.0 units
+Total Water Bill: Rs. 90.0
+Usage Category: Moderate Consumption
+Conservation Tip: Avoid unnecessary water usage.
+
+
+==============================
+OUTPUT 3 
+==============================
+     WATER BILL CALCULATOR
+
+Enter Consumer Name: Arjun
+Enter Water Usage (in units): 25
+
+ WATER BILL
+Consumer Name: Arjun
+Water Usage: 25.0 units
+Total Water Bill: Rs. 180.0
+Usage Category: High Consumption
+Conservation Tip: High usage! Fix leaking taps and reduce water wastage.
+
+
+==============================
+OUTPUT 4 
+==============================
+     WATER BILL CALCULATOR
+
+Enter Consumer Name: Priya
+Enter Water Usage (in units): 35
+
+ WATER BILL
+Consumer Name: Priya
+Water Usage: 35.0 units
+Total Water Bill: Rs. 325.0
+Usage Category: High Consumption
+Conservation Tip: High usage! Fix leaking taps and reduce water wastage.
+
+
+==============================
+OUTPUT 5 
+==============================
+     WATER BILL MANAGEMENT SYSTEM
+
+Enter Consumer Name: Kiran
+Enter Water Usage: 10
+
+------ WATER BILL ------
+Consumer Name: Kiran
+Water Usage: 10.0 units
+Total Water Bill: Rs. 100.0
+Usage Category: Low Usage
+Conservation Tip: Excellent! Maintain your water-saving habits.
+
+
+==============================
+OUTPUT 6 
+==============================
+     WATER BILL MANAGEMENT SYSTEM
+
+Enter Consumer Name: Sneha
+Enter Water Usage: 20
+
+------ WATER BILL ------
+Consumer Name: Sneha
+Water Usage: 20.0 units
+Total Water Bill: Rs. 185.0
+Usage Category: Medium Usage
+Conservation Tip: Try reducing daily water consumption.
+
+
+==============================
+OUTPUT 7 
+==============================
+     WATER BILL MANAGEMENT SYSTEM
+
+Enter Consumer Name: Aditya
+Enter Water Usage: 40
+
+------ WATER BILL ------
+Consumer Name: Aditya
+Water Usage: 40.0 units
+Total Water Bill: Rs. 340.0
+Usage Category: Excessive Usage
+Conservation Tip: Reduce water usage and check for leakage.
+
+
+==============================
+OUTPUT 8 
+==============================
+     SMART WATER BILL SYSTEM
+
+Enter Consumer Name: Rohan
+Enter Water Usage: 8
+
+------ BILL DETAILS ------
+Consumer Name: Rohan
+Total Units: 8.0
+Final Bill Amount: Rs. 43.2
+Usage Category: Eco Friendly
+Message: Congratulations! You receive a 10% discount.
+
+
+==============================
+OUTPUT 9 
+==============================
+     SMART WATER BILL SYSTEM
+
+Enter Consumer Name: Divya
+Enter Water Usage: 20
+
+------ BILL DETAILS ------
+Consumer Name: Divya
+Total Units: 20.0
+Final Bill Amount: Rs. 150.0
+Usage Category: Normal Usage
+Message: Use water carefully to save money.
+
+
+==============================
+OUTPUT 10 
+==============================
+     SMART WATER BILL SYSTEM
+
+Enter Consumer Name: Vikram
+Enter Water Usage: 35
+
+------ BILL DETAILS ------
+Consumer Name: Vikram
+Total Units: 35.0
+Final Bill Amount: Rs. 285.0
+Usage Category: Heavy Usage
+Message: Reduce water consumption to avoid high bills.
